@@ -13,3 +13,12 @@ PhishGuard is a lightweight Chrome extension that detects phishing websites in r
 ---
 
 ## 📂 Folder Structure
+hishing-detector/ ├── manifest.json ├── background.js ├── content.js ├── popup.html ├── popup.js ├── style.css └── icons/ ├── icon16.png
+
+
+---
+
+## 🔧 Installation
+1. Download or clone the repository:
+```bash
+git clone https://github.com/yourusername/phishguard.git
